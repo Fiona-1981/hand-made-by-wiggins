@@ -3,6 +3,8 @@ class Header extends HTMLElement {
     super();
   }
 
+  // Remember the CSS in here is overridden by the CSS in the Footer file!
+
   connectedCallback() {
     this.innerHTML = `
       <style>
@@ -10,7 +12,7 @@ class Header extends HTMLElement {
       </style>
 
       <header>
-        HTML goes here
+      Header content for every page goes here.
       </header>
     `;
   }

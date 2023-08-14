@@ -12,7 +12,7 @@ class Footer extends HTMLElement {
       </style>
 
       <footer>
-        HTML goes here
+      Footer content for every page goes here.
       </footer>
     `;
   }
