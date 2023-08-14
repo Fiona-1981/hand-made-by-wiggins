@@ -13,6 +13,7 @@ class Footer extends HTMLElement {
 
       <footer>
       Footer content for every page goes here.
+      <p>Website hand made by Fiona Wiggins</p>
       </footer>
     `;
   }
