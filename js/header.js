@@ -12,7 +12,7 @@ class Header extends HTMLElement {
       </style>
 
       <header>
-      Header content for every page goes here.
+      Header content for every page goes here, using JavaScript.
       </header>
     `;
   }

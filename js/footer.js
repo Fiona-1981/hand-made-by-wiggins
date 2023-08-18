@@ -12,7 +12,7 @@ class Footer extends HTMLElement {
       </style>
 
       <footer>
-      Footer content for every page goes here.
+      Footer content for every page goes here, using JavaScript.
       <p><a href="mailto:hello@handmadebywiggins.co.uk">Website hand made by Fiona Wiggins</a></p>
       <a href="https://www.freepik.com/free-vector/cats-icon-set_9386621.htm#query=black%20cat%20outline&position=0&from_view=search&track=ais" target="_blank">Black cat image by macrovector</a> on Freepik
       </footer>
